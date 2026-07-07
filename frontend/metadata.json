@@ -1,0 +1,7 @@
+{
+  "name": "Recipe to Cart",
+  "description": "Turn recipe photos into an aggregated shopping list. Review what you have, and buy only what you need.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
